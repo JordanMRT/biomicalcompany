@@ -8973,7 +8973,5 @@ a.text-dark:hover, a.text-dark:focus {
     border: 1px solid #ddd !important;
   }
 }
-.loganrounded-circle {border-radius: 50% !important;
-background-image : image ('../biomicalcompany/images/Logan_Rhodes_biomical.jpg';}
-.loganrounded-circle:hover {border-radius: 50% !important;background-image: image(../biomicalcompany/images/alice.jpg)}
+.loganrounded-circle {border-radius: 50% !important;}
 /*# sourceMappingURL=bootstrap.css.map */
